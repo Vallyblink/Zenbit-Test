@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from '../components/authHeader';
-import AuthWrapper from '../components/authWrapper';
+import Header from '../components/authHeader.js';
+import AuthWrapper from '../components/authWrapper.js';
 
 
 function AuthPage() {

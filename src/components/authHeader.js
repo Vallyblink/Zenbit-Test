@@ -42,11 +42,11 @@ function Header() {
   return (
     <HeaderContainer>
         <NavList>
-            <Link to="/login">
+            <Link to="/auth">
               <LoginButton>Log in</LoginButton>
           </Link>
           
-            <Link to="/register">
+            <Link to="/auth">
               <AuthButton>Sign up</AuthButton>
             </Link>
        
